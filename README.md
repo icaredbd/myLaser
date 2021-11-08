@@ -2,6 +2,8 @@
 激光打印 windows 客户端，gcode 生成，gcode sender
 
 安装要求：
+win10直接安装即可。
+如果遇到出错，请执行以下检查步骤。
 建议 win10及以上，net framework4.7.2及以上
 
 net framework下载安装
