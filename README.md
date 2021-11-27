@@ -2,10 +2,10 @@
 ![image](https://github.com/icaredbd/myLaser/blob/main/myLaser.ico)
 
 激光打印 windows Gcode生成及发送工具，支持grbl 1.1h 。
-支持各种图形格式，bmp，jpg，png，svg等生成gcode，
-支持图形拉伸、旋转、剪切变形，
-支持导入多个 gcode，
-支持各种文字字体生成gcode，支持文字拉伸、旋转、剪切变形。
+支持各种图形格式，bmp，jpg，png，svg等生成gcode，<br>
+支持图形拉伸、旋转、剪切变形，<br>
+支持导入多个 gcode，<br>
+支持各种文字字体生成gcode，支持文字拉伸、旋转、剪切变形。<br>
 
 
 安装要求：
