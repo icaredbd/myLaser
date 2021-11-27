@@ -1,5 +1,6 @@
 # myLaser
 激光打印 windows 客户端，支持grbl 1.1h gcode 生成，gcode sender
+![image](https://github.com/icaredbd/myLaser/blob/main/myLaser.ico)
 
 安装要求：
 win10直接安装。
